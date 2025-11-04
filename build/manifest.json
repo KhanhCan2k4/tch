@@ -1,0 +1,76 @@
+{
+  "Modules/Admin/Resources/assets/css/components/data-table.css": {
+    "file": "assets/data-table-a19c384f.css",
+    "isEntry": true,
+    "src": "Modules/Admin/Resources/assets/css/components/data-table.css"
+  },
+  "Modules/Admin/Resources/assets/css/components/datatable-components.css": {
+    "file": "assets/datatable-components-5d42bb6e.css",
+    "isEntry": true,
+    "src": "Modules/Admin/Resources/assets/css/components/datatable-components.css"
+  },
+  "Modules/Admin/Resources/assets/js/app.js": {
+    "file": "assets/app-cbb95deb.js",
+    "imports": [
+      "_module.esm-35e3903e.js",
+      "_vue.esm-bundler-80489fb4.js"
+    ],
+    "isEntry": true,
+    "src": "Modules/Admin/Resources/assets/js/app.js"
+  },
+  "Modules/Admin/Resources/assets/js/subadmin-index.css": {
+    "file": "assets/subadmin-index-56ee2aed.css",
+    "src": "Modules/Admin/Resources/assets/js/subadmin-index.css"
+  },
+  "Modules/Admin/Resources/assets/js/subadmin-index.js": {
+    "css": [
+      "assets/subadmin-index-56ee2aed.css"
+    ],
+    "file": "assets/subadmin-index-c8455a3c.js",
+    "imports": [
+      "_vue.esm-bundler-80489fb4.js",
+      "_axios-ba22fe77.js"
+    ],
+    "isEntry": true,
+    "src": "Modules/Admin/Resources/assets/js/subadmin-index.js"
+  },
+  "Modules/Admin/Resources/assets/sass/app.scss": {
+    "file": "assets/app-bbb0abd3.css",
+    "isEntry": true,
+    "src": "Modules/Admin/Resources/assets/sass/app.scss"
+  },
+  "_axios-ba22fe77.js": {
+    "file": "assets/axios-ba22fe77.js"
+  },
+  "_module.esm-35e3903e.js": {
+    "file": "assets/module.esm-35e3903e.js"
+  },
+  "_vue.esm-bundler-80489fb4.js": {
+    "file": "assets/vue.esm-bundler-80489fb4.js"
+  },
+  "resources/css/file-manager.css": {
+    "file": "assets/file-manager-8d927491.css",
+    "isEntry": true,
+    "src": "resources/css/file-manager.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-b836665d.js",
+    "imports": [
+      "_axios-ba22fe77.js",
+      "_module.esm-35e3903e.js",
+      "_vue.esm-bundler-80489fb4.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/data-manager/main.js": {
+    "file": "assets/main-a716ab69.js",
+    "isEntry": true,
+    "src": "resources/js/data-manager/main.js"
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-e3a19924.css",
+    "isEntry": true,
+    "src": "resources/scss/app.scss"
+  }
+}
